@@ -12,4 +12,4 @@ https://drive.google.com/drive/folders/1-lc91sLHFMfB0kNtVT9KnOJOy8X_9ceR?usp=sha
 
 The Proteus simulation repo link of the experiments!
 
-https://github.com/Poojaa-Rangaiah/Argyn-Tech/tree/main/Task/Schematic_Simulation
+https://github.com/Poojaa-Rangaiah/My-embedded-coure-repo/tree/main/Task/Schematic_Simulation
